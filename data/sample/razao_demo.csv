@@ -1,0 +1,5 @@
+data_lancamento,conta,descricao,valor,natureza,documento
+2024-01-05,2.1.1.01,Pagamento fornecedor Alfa,1500.00,D,BC123
+2024-01-10,1.1.1.01,Recebimento cliente XPTO,3200.00,C,BC124
+2024-01-15,6.1.2.03,Tarifa bancária,45.90,D,
+2024-01-25,1.1.1.01,Depósito não identificado,800.00,C,

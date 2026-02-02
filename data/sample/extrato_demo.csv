@@ -1,0 +1,5 @@
+data_movimento,descricao,valor,tipo,documento
+2024-01-05,Pagamento fornecedor Alfa,1500.00,D,BC123
+2024-01-10,Recebimento cliente XPTO,3200.00,C,BC124
+2024-01-15,Tarifa bancária,45.90,D,BC125
+2024-01-20,Aplicação financeira,5000.00,D,BC126
